@@ -1,0 +1,7 @@
+3 Observable Trends
+-------------------
+1) As expected, the max temperature is higher in cities closer to the equator.
+
+2) Wind Speed seems to be uncorrelated to location, but locations farther into the north have much higher wind speed in general, possibly due to cold winds moving in.
+
+3) Humidity is a bit all over the place, but near the equator tends to be higher.
